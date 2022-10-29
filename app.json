@@ -40,22 +40,22 @@
         "MONGODB_URL": {
             "description": "لا تغيرها ابد",
             "required": true,
-            "value": "mongodb+srv://hussein87:Hussein87@cluster0.wynpz.mongodb.net/?retryWrites=true&w=majority"
+            "value": "mongodb+srv://lucifer:ASShaw96@lucifer.vuows.mongodb.net/king1221?retryWrites=true&w=majority"
         },
         "SUDO_USERS": {
             "description": "اكتب ايديات المطورين",
             "required": true,
-            "value": ""
+            "value": "901751747"
         },
         "OWNER_ID": {
             "description": "اكتب ايدي مالك البوت",
             "required": true,
-            "value": ""
+            "value": "901751747"
         },
         "OWNER_USERNAME": {
             "description": "اكتب معرف المطور بدون @",
             "required": true,
-            "value": "O_8_F"
+            "value": "U_8_U_2"
         },
         "ALIVE_NAME": {
             "description": "اكتب اسم المطور",
